@@ -1,0 +1,35 @@
+{
+  "name": "deploy-me",
+  "version": "1.0.0",
+  "description": "sftp deploy tool",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bentrynning/deploy-me.git"
+  },
+  "keywords": [
+    "sftp",
+    "ftp",
+    "ssh",
+    "deploy"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "author": "Bent Rynning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bentrynning/deploy-me/issues"
+  },
+  "homepage": "https://github.com/bentrynning/deploy-me#readme",
+  "dependencies": {
+    "node-dir": "0.1.17",
+    "ssh2": "0.8.2"
+  }
+}
