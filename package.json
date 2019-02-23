@@ -1,5 +1,5 @@
 {
-  "name": "deploy-me",
+  "name": "@bentrynning/deploy-me",
   "version": "1.0.0",
   "description": "sftp deploy tool",
   "main": "index.js",
